@@ -1,3 +1,3 @@
 # quiz
 Quiz app with JavaScript.
-App language is Turkish.
+The language of the application is Turkish.
